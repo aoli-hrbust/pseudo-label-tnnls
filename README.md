@@ -1,6 +1,6 @@
-# Pseudo-label Propagation
+# PLP-L
 
-The demo code for the "Incomplete Multi-view Clustering via Pseudo-label Propagation" (Under Review).
+The demo code for the "Deep Incomplete Multiview Clustering via Local and Global Pseudo-Label Propagation".
 
 ## Abstract
 
